@@ -1,6 +1,6 @@
 - 👋 Hola, soy Esteban Castillo
 - 👀 Estudié Tecnología Médica mención oftalmología, me interesa seguir aprendiendo aspectos de la oftalmología, optometría, baja visión y terapia visual
-- 🌱 Actualmente estoy cursando una especialización en baja visión y además estoy aprendiendo lenguajes de programación como Python y Swift
+- 🌱 Actualmente estoy cursando una especialización en baja visión y además estoy aprendiendo lenguajes de programación como Python, Javascript y React Native.
 
 
 <!---
